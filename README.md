@@ -1,61 +1,100 @@
-# [Your Name] - Data Analysis Portfolio
+🌟 Nilani Gunasekara — Data Analyst | Supply Chain Analytics | Power BI Expert
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
+Welcome to my Data Analytics Portfolio!
+This repository contains the complete source code and content for my professional, one-page portfolio website, hosted on GitHub Pages.
 
-## About This Portfolio Template
+My portfolio is built to showcase my strengths across data analysis, supply chain analytics, statistical modeling, dashboards, and process improvement, with a clean and recruiter-friendly design.
 
-This portfolio is designed to demonstrate skills in:
-- Data visualization and storytelling
-- Data modeling and analysis
-- Creating interactive, professional dashboards
-- Transforming complex data into actionable insights
+📌 About This Portfolio
 
-## 🚀 Projects
+The goal of this portfolio is to highlight my ability to:
 
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
+Transform complex datasets into clear, actionable insights
 
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+Build interactive dashboards that support leadership decision-making
 
-### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+Apply supply chain analytics to solve real business challenges
 
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+Use statistical tools (SPSS, Minitab) and simulation (Arena) for deeper analysis
 
+Improve processes using Lean Six Sigma methodologies
 
-## 🛠️ Skills
+Communicate insights clearly through data storytelling
 
-Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
+This portfolio is fully responsive, fast, and designed with hiring managers in mind.
 
-- **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
-- **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
+🚀 Featured Projects
 
-## 💡 How to Use This Template
+These projects reflect the core of my work experience and analytical strengths.
+(Placeholders now — I will replace with full case studies once ready.)
 
-Creating your own portfolio from this template is a simple, four-step process.
+1️⃣ Supply Chain KPI Dashboard (Power BI)
 
-### 1. Create a New Repository from this Template
-Click the green **"Use this template"** button at the top of this repository page, then select **"Create a new repository"**.
+An interactive dashboard monitoring inventory health, supplier performance, and operational KPIs.
+Tools: Power BI, DAX, Power Query
+🔗 Project coming soon
 
-### 2. Name Your Repository for GitHub Pages
-This is the most important step. To turn your portfolio into a live website, you **must** name your new repository in the following format:
-`your-username.github.io`
-*(Replace `your-username` with your actual GitHub username.)*
+2️⃣ Demand Forecasting & SKU Planning
 
-### 3. Customize Your Portfolio
-Open the `index.html` file and begin personalizing it. The file contains helpful `<!--💡UPDATE: ... -->` comments to guide you on where to change:
-- Your name and title
-- Social media links
-- The "About Me" section
-- Your project titles, descriptions, and links
-- Your list of skills
+SKU-level time-series forecasting to support replenishment planning and reduce stockouts.
+Tools: R, Excel, Forecasting Models
+🔗 Project coming soon
 
-### 4. Add Your Files
-- Upload your profile photo and project preview images to the `assets/images/` folder.
-- Upload your CV (e.g., in PDF format) to the `assets/` folder.
-- Create your favicon and add it to the root folder.
+3️⃣ Process Improvement Case Study (Lean Six Sigma)
 
-Once you commit your changes, your new portfolio website will be live at `https://your-username.github.io` within a few minutes!
+Statistical analysis to identify bottlenecks, reduce variance, and improve cycle time.
+Tools: SPSS, Minitab, Lean Six Sigma
+🔗 Project coming soon
+
+4️⃣ Simulation Modeling for Capacity Optimization
+
+Arena model simulating production and logistics flows to evaluate capacity scenarios.
+Tools: Arena Simulation
+🔗 Project coming soon
+
+🛠️ Skills & Tools
+Data Visualization & BI
+
+Power BI (Expert)
+
+Excel (Expert)
+
+Tableau (Beginner)
+
+Data Analysis
+
+SQL (Beginner)
+
+Python (Beginner)
+
+R (Intermediate)
+
+Supply Chain & Business Analytics
+
+Supply Chain Analytics (Experienced)
+
+KPI Development (Expert)
+
+Dashboard Development (Expert)
+
+Statistical & Simulation Tools
+
+SPSS (Expert)
+
+Minitab (Expert)
+
+Arena Simulation (Expert)
+
+Process Improvement
+
+Lean Six Sigma (Green Belt)
+
+Process Mapping & Optimization
+
+Workflow Automation
+
+🌱 Currently Learning
+
+A/B Testing – designing experiments to validate decisions
+
+Snowflake – cloud data warehousing & scalable analytics
